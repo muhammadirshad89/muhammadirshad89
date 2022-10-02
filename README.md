@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadirshad89
 - 👀 I’m interested in to do your project of website development or mobile app development
-- 🌱 I’m currently learning Flutter & DevOps
+- 🌱 I’m currently learning AI & Chatbots / Web 3.0 & Metaverse
 - 📫 How to reach me ... +92 321 8100537 or syyed.asshi89@gmail.com
 
 <!---
